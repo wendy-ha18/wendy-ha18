@@ -13,4 +13,4 @@
 + Data Engineer Intern (11/2022-02/2023) - Investment System and Support team [@HESTA](https://www.hesta.com.au)
 + Player of [@Team Liquid](https://www.teamliquid.com/) at [IMC Prosperity Challenge](https://prosperity.imc.com/)
 
-![image](https://github.com/wendy-ha18/wendy-ha18/blob/main/github_pic2.gif)
+<img src="https://github.com/wendy-ha18/wendy-ha18/blob/main/github_pic2.gif" width="450">
