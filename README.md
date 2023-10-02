@@ -17,7 +17,6 @@
 ```
 ### ☕ Wanna chat?
 Contact me through [Email](wendyha.sut@gmail.com) or [Linkedin](https://www.linkedin.com/in/wendyha-sut/).
-I am also happy to discuss data science research initiatives or community activities that I can help, in addition to career prospects.
 
 <img src="https://github.com/wendy-ha18/wendy-ha18/blob/main/github_pic2.gif" width="400">
 
