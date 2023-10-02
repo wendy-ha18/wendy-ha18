@@ -16,7 +16,7 @@
 - Player of Team Liquid (https://www.teamliquid.com/) at IMC Prosperity Challenge
 ```
 ### ☕ Wanna chat?
-Contact me through [Email](wendyha.sut@gmail.com) or [Linkedin](https://www.linkedin.com/in/wendyha-sut/).
+Contact me through [Email](mailto:wendyha.sut@gmail.com) or [Linkedin](https://www.linkedin.com/in/wendyha-sut/).
 
 <img src="https://github.com/wendy-ha18/wendy-ha18/blob/main/github_pic2.gif" width="400">
 
