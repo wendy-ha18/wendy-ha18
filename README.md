@@ -1,7 +1,7 @@
 ## Hello World 👋 I'm Wendy 🧃 
 ![](https://komarev.com/ghpvc/?username=wendy-ha18)
 
-🌱 I'm a Software Engineering and Data Science enthusiast. I am passionate about applying programming knowledge to enhance the quality of life, particularly in the fields of healthcare, technology, and climate change 🌎
+🌱 I'm a Software Engineering and Data Engineer enthusiast. I am passionate about applying programming knowledge to enhance the quality of life, particularly in the fields of healthcare, technology, and climate change 🌎
 
 🌱 I'm looking for New Grad/Junior roles starting Feb 2024 ✨
 
