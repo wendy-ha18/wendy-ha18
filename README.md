@@ -1,6 +1,8 @@
 ## Hello World 👋 I'm Wendy 🧃 
 ![](https://komarev.com/ghpvc/?username=wendy-ha18)
 
+[![An image of @wendyha18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wendyha18)](https://holopin.io/@wendyha18)
+
 🌱 I'm a Software Engineering and Data Engineer enthusiast. I am passionate about applying programming knowledge to enhance the quality of life, particularly in the fields of healthcare, technology, and climate change 🌎
 
 🌱 I'm looking for New Grad/Junior roles starting Feb 2024 ✨
