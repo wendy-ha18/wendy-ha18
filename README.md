@@ -5,7 +5,7 @@
 
 🌱 I'm a Software Engineering and Data Engineer enthusiast. I am passionate about applying programming knowledge to enhance the quality of life, particularly in the fields of healthcare, technology, and climate change 🌎
 
-🌱 I'm looking for New Grad/Junior roles starting Feb 2024 ✨
+🌱 I'm looking for Junior Software Engineer roles starting in 2024 ✨
 
 ### 🔭 Currently working on:
 ```
