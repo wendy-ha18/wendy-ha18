@@ -5,7 +5,9 @@
 
 🌱 I'm a Software Engineering and Data Engineer enthusiast. I am passionate about applying programming knowledge to enhance the quality of life, particularly in the fields of healthcare, technology, and climate change 🌎
 
-🌱 I'm looking for Junior Software Engineer roles starting in 2024 ✨
+🌱 I'm looking for some new Hackathons or Open sources project to work with ✨
+
+<img align="left" width="300" height="300" src="6.gif">
 
 ### 🔭 Currently working on:
 ```
@@ -19,4 +21,5 @@
 ```
 ### ☕ Wanna chat?
 Contact me through [Email](mailto:wendyha.sut@gmail.com) or [Linkedin](https://www.linkedin.com/in/wendyha-sut/).
+
 
