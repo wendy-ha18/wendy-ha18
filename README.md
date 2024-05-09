@@ -7,7 +7,7 @@
 
 🌱 I'm looking for some new Hackathons or Open sources project to work with ✨
 
-<img align="left" width="300" height="300" src="6.gif">
+<img align="left" width="250" height="250" src="6.gif">
 
 ### 🔭 Currently working on:
 ```
