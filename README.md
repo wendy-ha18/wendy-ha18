@@ -11,8 +11,8 @@
 
 ### 🔭 Currently working on:
 ```
-- Open source contributor for Hacktoberfect 2023 (https://hacktoberfest.com/)
-- Data Scientist volunteer for Data4Good (https://data4good.com.au/)
+- Open source contributor for Hacktoberfect 2024 (https://hacktoberfest.com/)
+- K8s v1.31, 1.32 Release Team (https://github.com/kubernetes/sig-release/tree/master)
 ```
 ### 🕶 Previously:
 ```
