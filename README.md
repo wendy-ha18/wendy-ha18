@@ -10,10 +10,10 @@
 ### 🔭 Currently working on:
 ```
 - K8s v1.31, 1.32 Release Team (https://github.com/kubernetes/sig-release/tree/master)
+- Associate Software Engineer (2024-present) - Platform Engineer team @Pepperstone
 ```
 ### 🕶 Previously:
 ```
-- Associate Software Engineer (2024-present) - Platform Engineer team @Pepperstone
 - Data Engineer Intern (11/2022-02/2023) - Investment System and Support team @HESTA
 - Player of Team Liquid (https://www.teamliquid.com/) at IMC Prosperity Challenge
 ```
