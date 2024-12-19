@@ -14,5 +14,6 @@ jobs:
       - uses: actions/checkout@v4.2.2
       - uses: Readme-Workflows/recent-activity@v2.4.1
       # - users: jamesgeorge007/github-activity-readme@master
-        env:
+        with:
+          GITHUB_USERNAME: wendy-ha18
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
