@@ -12,7 +12,7 @@
 - 😄 Pronouns: she/her
 - 🎧 Listening to: [Ma Meilleure Ennemie](https://www.youtube.com/watch?v=1F3OGIFnW1k) (from Arcane Season 2)
 
-## Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2701](https://github.com/kubernetes/sig-release/issues/2701#issuecomment-2550899982) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
