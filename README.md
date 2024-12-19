@@ -14,8 +14,6 @@
 
 ## Recent Activity
 
-This is a list of my most recent activity on GitHub.
-
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2701](https://github.com/kubernetes/sig-release/issues/2701#issuecomment-2550899982) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 2. 🗣 Commented on [#2703](https://github.com/kubernetes/sig-release/pull/2703#issuecomment-2550834161) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
