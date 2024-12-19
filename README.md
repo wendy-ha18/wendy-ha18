@@ -12,3 +12,10 @@
 - 😄 Pronouns: she/her
 - 🎧 Listening to: [Ma Meilleure Ennemie](https://www.youtube.com/watch?v=1F3OGIFnW1k) (from Arcane Season 2)
 
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
