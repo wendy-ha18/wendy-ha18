@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2701](https://github.com/kubernetes/sig-release/issues/2701#issuecomment-2550899982) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#2703](https://github.com/kubernetes/sig-release/pull/2703#issuecomment-2550834161) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#2703](https://github.com/kubernetes/sig-release/pull/2703#issuecomment-2550808701) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 💪 Opened PR [#2703](https://github.com/kubernetes/sig-release/pull/2703) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. ❗ Opened issue [#2701](https://github.com/kubernetes/sig-release/issues/2701) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#11648](https://github.com/kubernetes-sigs/cluster-api/pull/11648#issuecomment-2579440022) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#2701](https://github.com/kubernetes/sig-release/issues/2701#issuecomment-2550899982) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#2703](https://github.com/kubernetes/sig-release/pull/2703#issuecomment-2550834161) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#2703](https://github.com/kubernetes/sig-release/pull/2703#issuecomment-2550808701) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 💪 Opened PR [#2703](https://github.com/kubernetes/sig-release/pull/2703) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
