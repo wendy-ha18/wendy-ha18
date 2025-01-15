@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129588](https://github.com/kubernetes/kubernetes/issues/129588#issuecomment-2587138525) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🔒 Closed issue [#129588](https://github.com/kubernetes/kubernetes/issues/129588) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. ❗ Opened issue [#129588](https://github.com/kubernetes/kubernetes/issues/129588) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#11648](https://github.com/kubernetes-sigs/cluster-api/pull/11648#issuecomment-2579440022) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#2701](https://github.com/kubernetes/sig-release/issues/2701#issuecomment-2550899982) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#34141](https://github.com/kubernetes/test-infra/pull/34141#issuecomment-2589765826) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+2. 💪 Opened PR [#34141](https://github.com/kubernetes/test-infra/pull/34141) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#129588](https://github.com/kubernetes/kubernetes/issues/129588#issuecomment-2587138525) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🔒 Closed issue [#129588](https://github.com/kubernetes/kubernetes/issues/129588) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. ❗ Opened issue [#129588](https://github.com/kubernetes/kubernetes/issues/129588) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
