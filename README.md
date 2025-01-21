@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5347](https://github.com/kubernetes/org/issues/5347#issuecomment-2600179383) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🗣 Commented on [#5347](https://github.com/kubernetes/org/issues/5347#issuecomment-2599564461) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🗣 Commented on [#5347](https://github.com/kubernetes/org/issues/5347#issuecomment-2599425697) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#5347](https://github.com/kubernetes/org/issues/5347#issuecomment-2599418431) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#129691](https://github.com/kubernetes/kubernetes/issues/129691#issuecomment-2598424072) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#129706](https://github.com/kubernetes/kubernetes/issues/129706#issuecomment-2602301416) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#129707](https://github.com/kubernetes/kubernetes/pull/129707#issuecomment-2602298351) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. ❗ Opened issue [#129706](https://github.com/kubernetes/kubernetes/issues/129706) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 💪 Opened PR [#5354](https://github.com/kubernetes/org/pull/5354) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 🗣 Commented on [#5347](https://github.com/kubernetes/org/issues/5347#issuecomment-2600179383) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
