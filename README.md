@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2717](https://github.com/kubernetes/sig-release/pull/2717) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#129588](https://github.com/kubernetes/kubernetes/issues/129588#issuecomment-2607255733) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#5354](https://github.com/kubernetes/org/pull/5354#issuecomment-2607227615) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#129588](https://github.com/kubernetes/kubernetes/issues/129588#issuecomment-2603972846) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#129721](https://github.com/kubernetes/kubernetes/issues/129721#issuecomment-2603271018) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#129706](https://github.com/kubernetes/kubernetes/issues/129706#issuecomment-2615560672) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#129760](https://github.com/kubernetes/kubernetes/issues/129760#issuecomment-2614947080) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 💪 Opened PR [#2717](https://github.com/kubernetes/sig-release/pull/2717) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#129588](https://github.com/kubernetes/kubernetes/issues/129588#issuecomment-2607255733) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#5354](https://github.com/kubernetes/org/pull/5354#issuecomment-2607227615) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
