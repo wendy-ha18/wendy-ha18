@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2777](https://github.com/kubestellar/kubestellar/issues/2777) in [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar)
-2. 🗣 Commented on [#129660](https://github.com/kubernetes/kubernetes/issues/129660#issuecomment-2621419867) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#123760](https://github.com/kubernetes/kubernetes/issues/123760#issuecomment-2621246735) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#129593](https://github.com/kubernetes/kubernetes/issues/129593#issuecomment-2621207496) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#129706](https://github.com/kubernetes/kubernetes/issues/129706#issuecomment-2615560672) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🔒 Closed issue [#2777](https://github.com/kubestellar/kubestellar/issues/2777) in [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar)
+2. 🗣 Commented on [#2777](https://github.com/kubestellar/kubestellar/issues/2777#issuecomment-2629413100) in [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar)
+3. 🗣 Commented on [#2777](https://github.com/kubestellar/kubestellar/issues/2777#issuecomment-2629412887) in [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar)
+4. 🗣 Commented on [#129779](https://github.com/kubernetes/kubernetes/issues/129779#issuecomment-2629271887) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. ❗ Opened issue [#2777](https://github.com/kubestellar/kubestellar/issues/2777) in [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar)
 <!--END_SECTION:activity-->
