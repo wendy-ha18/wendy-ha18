@@ -6,7 +6,7 @@
 🌱 I'm a Software Engineering passionate about applying programming knowledge to enhance the quality of life, particularly in the fields of healthcare, renewable engergy, and climate change 🌎
 
 - 🌏 I live in Melbourne, Australia
-- 🔭 I’m currently working on [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master) since v1.31 to present.
+- 🔭 I’m currently working on [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master) on v1.33.
 - 💬 Ask me about open sources
 - 📫 How to reach me: my [Email](mailto:wendyha.sut@gmail.com) or [Linkedin](https://www.linkedin.com/in/wendyha-sut/)
 - 😄 Pronouns: she/her
