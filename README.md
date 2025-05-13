@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2779](https://github.com/kubernetes/sig-release/issues/2779#issuecomment-2866430553) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#18110](https://github.com/etcd-io/etcd/issues/18110#issuecomment-2845130241) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-3. 🗣 Commented on [#2777](https://github.com/kubernetes/sig-release/issues/2777#issuecomment-2845082081) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#18110](https://github.com/etcd-io/etcd/issues/18110#issuecomment-2845069441) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-5. 🗣 Commented on [#2777](https://github.com/kubernetes/sig-release/issues/2777#issuecomment-2833432263) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#129926](https://github.com/kubernetes/kubernetes/issues/129926#issuecomment-2872613781) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#129800](https://github.com/kubernetes/kubernetes/issues/129800#issuecomment-2872522409) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#129800](https://github.com/kubernetes/kubernetes/issues/129800#issuecomment-2872520646) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#129779](https://github.com/kubernetes/kubernetes/issues/129779#issuecomment-2872510134) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#129757](https://github.com/kubernetes/kubernetes/issues/129757#issuecomment-2872461407) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
