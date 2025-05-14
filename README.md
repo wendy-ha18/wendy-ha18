@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129926](https://github.com/kubernetes/kubernetes/issues/129926#issuecomment-2872613781) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#129800](https://github.com/kubernetes/kubernetes/issues/129800#issuecomment-2872522409) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#129800](https://github.com/kubernetes/kubernetes/issues/129800#issuecomment-2872520646) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#129779](https://github.com/kubernetes/kubernetes/issues/129779#issuecomment-2872510134) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#129757](https://github.com/kubernetes/kubernetes/issues/129757#issuecomment-2872461407) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 🗣 Commented on [#5584](https://github.com/kubernetes/org/pull/5584#issuecomment-2875152710) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 🗣 Commented on [#129926](https://github.com/kubernetes/kubernetes/issues/129926#issuecomment-2872613781) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#129800](https://github.com/kubernetes/kubernetes/issues/129800#issuecomment-2872522409) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#129800](https://github.com/kubernetes/kubernetes/issues/129800#issuecomment-2872520646) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#129779](https://github.com/kubernetes/kubernetes/issues/129779#issuecomment-2872510134) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
