@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2788](https://github.com/kubernetes/sig-release/pull/2788#issuecomment-2900595007) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#2788](https://github.com/kubernetes/sig-release/pull/2788#issuecomment-2898819136) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#129848](https://github.com/kubernetes/kubernetes/issues/129848#issuecomment-2890491881) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#129848](https://github.com/kubernetes/kubernetes/issues/129848#issuecomment-2890440749) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#2785](https://github.com/kubernetes/sig-release/pull/2785#issuecomment-2888072963) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#801](https://github.com/etcd-io/website/issues/801#issuecomment-2937694018) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#2788](https://github.com/kubernetes/sig-release/pull/2788#issuecomment-2900595007) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#2788](https://github.com/kubernetes/sig-release/pull/2788#issuecomment-2898819136) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🗣 Commented on [#129848](https://github.com/kubernetes/kubernetes/issues/129848#issuecomment-2890491881) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#129848](https://github.com/kubernetes/kubernetes/issues/129848#issuecomment-2890440749) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
