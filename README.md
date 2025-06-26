@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1027](https://github.com/etcd-io/website/pull/1027#issuecomment-2974008782) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#1027](https://github.com/etcd-io/website/pull/1027#issuecomment-2974001329) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#1027](https://github.com/etcd-io/website/pull/1027#issuecomment-2973990483) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 🗣 Commented on [#1027](https://github.com/etcd-io/website/pull/1027#issuecomment-2973984738) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🗣 Commented on [#1027](https://github.com/etcd-io/website/pull/1027#issuecomment-2973883112) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 🗣 Commented on [#51294](https://github.com/kubernetes/website/pull/51294#issuecomment-3003546404) in [kubernetes/website](https://github.com/kubernetes/website)
+2. 🗣 Commented on [#1029](https://github.com/etcd-io/website/pull/1029#issuecomment-3002044641) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 💪 Opened PR [#1029](https://github.com/etcd-io/website/pull/1029) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#1027](https://github.com/etcd-io/website/pull/1027#issuecomment-2974008782) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#1027](https://github.com/etcd-io/website/pull/1027#issuecomment-2974001329) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
