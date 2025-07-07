@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2804](https://github.com/kubernetes/sig-release/pull/2804#issuecomment-3024018989) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🗣 Commented on [#1034](https://github.com/etcd-io/website/pull/1034#issuecomment-3015322093) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#51294](https://github.com/kubernetes/website/pull/51294#issuecomment-3003546404) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#1029](https://github.com/etcd-io/website/pull/1029#issuecomment-3002044641) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 💪 Opened PR [#1029](https://github.com/etcd-io/website/pull/1029) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 🗣 Commented on [#1009](https://github.com/etcd-io/website/pull/1009#issuecomment-3041622059) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1029](https://github.com/etcd-io/website/pull/1029#issuecomment-3041519969) in [etcd-io/website](https://github.com/etcd-io/website)
+3. ❌ Reopened PR [#1029](https://github.com/etcd-io/website/pull/1029) in [etcd-io/website](https://github.com/etcd-io/website)
+4. ❌ Closed PR [#1029](https://github.com/etcd-io/website/pull/1029) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#2804](https://github.com/kubernetes/sig-release/pull/2804#issuecomment-3024018989) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
