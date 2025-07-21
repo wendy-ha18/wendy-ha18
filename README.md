@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2786](https://github.com/kubernetes/sig-release/issues/2786) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-2. 🎉 Merged PR [#2787](https://github.com/kubernetes/sig-release/pull/2787) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#2787](https://github.com/kubernetes/sig-release/pull/2787#issuecomment-3078565407) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🗣 Commented on [#2787](https://github.com/kubernetes/sig-release/pull/2787#issuecomment-3078541099) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. ❗ Opened issue [#1040](https://github.com/etcd-io/website/issues/1040) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 🗣 Commented on [#5451](https://github.com/kubernetes/enhancements/pull/5451#issuecomment-3093221175) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+2. 🗣 Commented on [#2816](https://github.com/kubernetes/sig-release/pull/2816#issuecomment-3093187759) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+3. 🗣 Commented on [#2816](https://github.com/kubernetes/sig-release/pull/2816#issuecomment-3093187231) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+4. 🔒 Closed issue [#2786](https://github.com/kubernetes/sig-release/issues/2786) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+5. 🎉 Merged PR [#2787](https://github.com/kubernetes/sig-release/pull/2787) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
 <!--END_SECTION:activity-->
