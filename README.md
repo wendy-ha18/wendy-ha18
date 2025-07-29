@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5451](https://github.com/kubernetes/enhancements/pull/5451#issuecomment-3093221175) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-2. 🗣 Commented on [#2816](https://github.com/kubernetes/sig-release/pull/2816#issuecomment-3093187759) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-3. 🗣 Commented on [#2816](https://github.com/kubernetes/sig-release/pull/2816#issuecomment-3093187231) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-4. 🔒 Closed issue [#2786](https://github.com/kubernetes/sig-release/issues/2786) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
-5. 🎉 Merged PR [#2787](https://github.com/kubernetes/sig-release/pull/2787) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#133213](https://github.com/kubernetes/kubernetes/pull/133213#issuecomment-3127463734) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 🗣 Commented on [#133021](https://github.com/kubernetes/kubernetes/pull/133021#issuecomment-3127462617) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+3. 🗣 Commented on [#132439](https://github.com/kubernetes/kubernetes/pull/132439#issuecomment-3127460057) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#132443](https://github.com/kubernetes/kubernetes/pull/132443#issuecomment-3127458699) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#2400](https://github.com/kubernetes/enhancements/issues/2400#issuecomment-3126585849) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
