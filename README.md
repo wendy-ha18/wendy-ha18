@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133213](https://github.com/kubernetes/kubernetes/pull/133213#issuecomment-3127463734) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#133021](https://github.com/kubernetes/kubernetes/pull/133021#issuecomment-3127462617) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#132439](https://github.com/kubernetes/kubernetes/pull/132439#issuecomment-3127460057) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#132443](https://github.com/kubernetes/kubernetes/pull/132443#issuecomment-3127458699) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 🗣 Commented on [#2400](https://github.com/kubernetes/enhancements/issues/2400#issuecomment-3126585849) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#806](https://github.com/etcd-io/website/issues/806#issuecomment-3132858205) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#806](https://github.com/etcd-io/website/issues/806#issuecomment-3132857786) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#133213](https://github.com/kubernetes/kubernetes/pull/133213#issuecomment-3127463734) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#133021](https://github.com/kubernetes/kubernetes/pull/133021#issuecomment-3127462617) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+5. 🗣 Commented on [#132439](https://github.com/kubernetes/kubernetes/pull/132439#issuecomment-3127460057) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
