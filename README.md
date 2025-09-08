@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1055](https://github.com/etcd-io/website/pull/1055#issuecomment-3249578560) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#52123](https://github.com/kubernetes/website/pull/52123#issuecomment-3239725704) in [kubernetes/website](https://github.com/kubernetes/website)
-3. 🗣 Commented on [#52123](https://github.com/kubernetes/website/pull/52123#issuecomment-3239717752) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🗣 Commented on [#52087](https://github.com/kubernetes/website/issues/52087#issuecomment-3239259810) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🗣 Commented on [#2845](https://github.com/kubernetes/sig-release/pull/2845#issuecomment-3225682960) in [kubernetes/sig-release](https://github.com/kubernetes/sig-release)
+1. 🗣 Commented on [#8574](https://github.com/kubernetes/community/issues/8574#issuecomment-3263700651) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#8573](https://github.com/kubernetes/community/issues/8573#issuecomment-3263698814) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🔒 Closed issue [#1](https://github.com/wendy-ha18/RSP2023/issues/1) in [wendy-ha18/RSP2023](https://github.com/wendy-ha18/RSP2023)
+4. ❗ Opened issue [#1](https://github.com/wendy-ha18/RSP2023/issues/1) in [wendy-ha18/RSP2023](https://github.com/wendy-ha18/RSP2023)
+5. 🗣 Commented on [#945](https://github.com/etcd-io/website/issues/945#issuecomment-3263594515) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
