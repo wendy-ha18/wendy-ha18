@@ -15,9 +15,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8574](https://github.com/kubernetes/community/issues/8574#issuecomment-3263700651) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#8573](https://github.com/kubernetes/community/issues/8573#issuecomment-3263698814) in [kubernetes/community](https://github.com/kubernetes/community)
-3. 🔒 Closed issue [#1](https://github.com/wendy-ha18/RSP2023/issues/1) in [wendy-ha18/RSP2023](https://github.com/wendy-ha18/RSP2023)
-4. ❗ Opened issue [#1](https://github.com/wendy-ha18/RSP2023/issues/1) in [wendy-ha18/RSP2023](https://github.com/wendy-ha18/RSP2023)
-5. 🗣 Commented on [#945](https://github.com/etcd-io/website/issues/945#issuecomment-3263594515) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 🗣 Commented on [#8593](https://github.com/kubernetes/community/issues/8593#issuecomment-3269845450) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#8574](https://github.com/kubernetes/community/issues/8574#issuecomment-3263700651) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🗣 Commented on [#8573](https://github.com/kubernetes/community/issues/8573#issuecomment-3263698814) in [kubernetes/community](https://github.com/kubernetes/community)
+4. 🔒 Closed issue [#1](https://github.com/wendy-ha18/RSP2023/issues/1) in [wendy-ha18/RSP2023](https://github.com/wendy-ha18/RSP2023)
+5. ❗ Opened issue [#1](https://github.com/wendy-ha18/RSP2023/issues/1) in [wendy-ha18/RSP2023](https://github.com/wendy-ha18/RSP2023)
 <!--END_SECTION:activity-->
