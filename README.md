@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1033](https://github.com/etcd-io/website/issues/1033#issuecomment-3285661579) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#8593](https://github.com/kubernetes/community/issues/8593#issuecomment-3269845450) in [kubernetes/community](https://github.com/kubernetes/community)
-3. 🗣 Commented on [#8574](https://github.com/kubernetes/community/issues/8574#issuecomment-3263700651) in [kubernetes/community](https://github.com/kubernetes/community)
-4. 🗣 Commented on [#8573](https://github.com/kubernetes/community/issues/8573#issuecomment-3263698814) in [kubernetes/community](https://github.com/kubernetes/community)
-5. 🔒 Closed issue [#1](https://github.com/wendy-ha18/RSP2023/issues/1) in [wendy-ha18/RSP2023](https://github.com/wendy-ha18/RSP2023)
+1. 🗣 Commented on [#12773](https://github.com/kubernetes-sigs/cluster-api/issues/12773#issuecomment-3304904420) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#12774](https://github.com/kubernetes-sigs/cluster-api/issues/12774#issuecomment-3304902908) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#1033](https://github.com/etcd-io/website/issues/1033#issuecomment-3285661579) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#8593](https://github.com/kubernetes/community/issues/8593#issuecomment-3269845450) in [kubernetes/community](https://github.com/kubernetes/community)
+5. 🗣 Commented on [#8574](https://github.com/kubernetes/community/issues/8574#issuecomment-3263700651) in [kubernetes/community](https://github.com/kubernetes/community)
 <!--END_SECTION:activity-->
