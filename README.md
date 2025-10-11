@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8649](https://github.com/kubernetes/community/pull/8649#issuecomment-3382900148) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#1260](https://github.com/cncf/people/pull/1260#issuecomment-3382866574) in [cncf/people](https://github.com/cncf/people)
-3. 🗣 Commented on [#5517](https://github.com/kubernetes/enhancements/issues/5517#issuecomment-3368877100) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#5587](https://github.com/kubernetes/enhancements/pull/5587#issuecomment-3368852878) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 💪 Opened PR [#1260](https://github.com/cncf/people/pull/1260) in [cncf/people](https://github.com/cncf/people)
+1. 🗣 Commented on [#1064](https://github.com/etcd-io/website/pull/1064#issuecomment-3387256105) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#8649](https://github.com/kubernetes/community/pull/8649#issuecomment-3382900148) in [kubernetes/community](https://github.com/kubernetes/community)
+3. 🗣 Commented on [#1260](https://github.com/cncf/people/pull/1260#issuecomment-3382866574) in [cncf/people](https://github.com/cncf/people)
+4. 🗣 Commented on [#5517](https://github.com/kubernetes/enhancements/issues/5517#issuecomment-3368877100) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#5587](https://github.com/kubernetes/enhancements/pull/5587#issuecomment-3368852878) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
