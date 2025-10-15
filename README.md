@@ -18,8 +18,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1064](https://github.com/etcd-io/website/pull/1064#issuecomment-3397552822) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#1064](https://github.com/etcd-io/website/pull/1064#issuecomment-3397538312) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#5474](https://github.com/kubernetes/enhancements/issues/5474#issuecomment-3394330998) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#1064](https://github.com/etcd-io/website/pull/1064#issuecomment-3387256105) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🗣 Commented on [#8649](https://github.com/kubernetes/community/pull/8649#issuecomment-3382900148) in [kubernetes/community](https://github.com/kubernetes/community)
+2. ❌ Unassigned PR [#1064](undefined) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#1064](https://github.com/etcd-io/website/pull/1064#issuecomment-3397538312) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#5474](https://github.com/kubernetes/enhancements/issues/5474#issuecomment-3394330998) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#1064](https://github.com/etcd-io/website/pull/1064#issuecomment-3387256105) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
