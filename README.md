@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12861](https://github.com/kubernetes-sigs/cluster-api/issues/12861#issuecomment-3405713383) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#12864](https://github.com/kubernetes-sigs/cluster-api/pull/12864#issuecomment-3405608350) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 💪 Opened PR [#12864](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#12863](https://github.com/kubernetes-sigs/cluster-api/pull/12863#issuecomment-3405529574) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 💪 Opened PR [#12863](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#12861](https://github.com/kubernetes-sigs/cluster-api/issues/12861#issuecomment-3410130005) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#12861](https://github.com/kubernetes-sigs/cluster-api/issues/12861#issuecomment-3405713383) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#12864](https://github.com/kubernetes-sigs/cluster-api/pull/12864#issuecomment-3405608350) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 💪 Opened PR [#12864](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#12863](https://github.com/kubernetes-sigs/cluster-api/pull/12863#issuecomment-3405529574) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
