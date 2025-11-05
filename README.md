@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12934](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#1070](https://github.com/etcd-io/website/pull/1070#issuecomment-3459192687) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#400](https://github.com/etcd-io/website/issues/400#issuecomment-3459150323) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 🗣 Commented on [#12861](https://github.com/kubernetes-sigs/cluster-api/issues/12861#issuecomment-3410130005) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#12861](https://github.com/kubernetes-sigs/cluster-api/issues/12861#issuecomment-3405713383) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#12945](https://github.com/kubernetes-sigs/cluster-api/pull/12945#issuecomment-3488478157) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#12945](https://github.com/kubernetes-sigs/cluster-api/pull/12945#issuecomment-3485654801) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 💪 Opened PR [#12934](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#1070](https://github.com/etcd-io/website/pull/1070#issuecomment-3459192687) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#400](https://github.com/etcd-io/website/issues/400#issuecomment-3459150323) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
