@@ -21,5 +21,5 @@
 2. 🗣 Commented on [#1070](https://github.com/etcd-io/website/pull/1070#issuecomment-3546416561) in [etcd-io/website](https://github.com/etcd-io/website)
 3. 🗣 Commented on [#1085](https://github.com/etcd-io/website/issues/1085#issuecomment-3538469523) in [etcd-io/website](https://github.com/etcd-io/website)
 4. 🗣 Commented on [#8239](https://github.com/cert-manager/cert-manager/issues/8239#issuecomment-3512119216) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
-5. 🗣 Commented on [#12934](https://github.com/kubernetes-sigs/cluster-api/pull/12934#issuecomment-3508158183) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. ❌ Merged PR [#12934](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
