@@ -17,8 +17,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/wendy-ha18/wendy-ha-website/pull/1) in [wendy-ha18/wendy-ha-website](https://github.com/wendy-ha18/wendy-ha-website)
-2. 💪 Opened PR [#1](https://github.com/wendy-ha18/wendy-ha-website/pull/1) in [wendy-ha18/wendy-ha-website](https://github.com/wendy-ha18/wendy-ha-website)
+1. 🗣 Commented on [#1102](https://github.com/etcd-io/website/pull/1102#issuecomment-3775627929) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1044](https://github.com/etcd-io/website/pull/1044#issuecomment-3775591826) in [etcd-io/website](https://github.com/etcd-io/website)
 3. 🗣 Commented on [#1085](https://github.com/etcd-io/website/issues/1085#issuecomment-3538469523) in [etcd-io/website](https://github.com/etcd-io/website)
 4. 🗣 Commented on [#8239](https://github.com/cert-manager/cert-manager/issues/8239#issuecomment-3512119216) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
 5. ❌ Merged PR [#12934](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
