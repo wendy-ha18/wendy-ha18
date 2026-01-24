@@ -7,7 +7,7 @@
 
 - 🌏 I live in Melbourne, Australia
 - 🔭 I’m currently working on [Kubernetes Release Team](https://github.com/kubernetes/sig-release/tree/master): v1.31 - v1.34 - ClusterAPI v1.10, v1.12 - SIG Etcd Contributor.
-- 💬 Ask me anything about open sources
+- 💬 Ask me anything about open sources.
 - 📫 How to reach me: my [Linkedin](https://www.linkedin.com/in/wendyha-sut/) or [Email](mailto:wendyha.sut@gmail.com)
 - 😄 Pronouns: she/her
 - 🎧 Listening to: [Ma Meilleure Ennemie](https://www.youtube.com/watch?v=1F3OGIFnW1k) (from Arcane Season 2)
