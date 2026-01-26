@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1063](https://github.com/etcd-io/website/issues/1063#issuecomment-3787548541) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#1063](https://github.com/etcd-io/website/issues/1063#issuecomment-3787548327) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#1103](https://github.com/etcd-io/website/pull/1103#issuecomment-3776409431) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 🗣 Commented on [#1044](https://github.com/etcd-io/website/pull/1044#issuecomment-3776403046) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🗣 Commented on [#1103](https://github.com/etcd-io/website/pull/1103#issuecomment-3775893772) in [etcd-io/website](https://github.com/etcd-io/website)
+1. ❗ Opened issue [#6](https://github.com/wendy-ha18/2026-milestones-tracking/issues/6) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+2. ❗ Opened issue [#5](https://github.com/wendy-ha18/2026-milestones-tracking/issues/5) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+3. ❗ Opened issue [#4](https://github.com/wendy-ha18/2026-milestones-tracking/issues/4) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+4. ❗ Opened issue [#3](https://github.com/wendy-ha18/2026-milestones-tracking/issues/3) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+5. ❗ Opened issue [#2](https://github.com/wendy-ha18/2026-milestones-tracking/issues/2) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
 <!--END_SECTION:activity-->
