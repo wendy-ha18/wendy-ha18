@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6097](https://github.com/kubernetes/org/issues/6097#issuecomment-3798721135) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🗣 Commented on [#5753](https://github.com/kubernetes/enhancements/pull/5753#issuecomment-3798271024) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. ❗ Opened issue [#6](https://github.com/wendy-ha18/2026-milestones-tracking/issues/6) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
-4. ❗ Opened issue [#5](https://github.com/wendy-ha18/2026-milestones-tracking/issues/5) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
-5. ❗ Opened issue [#4](https://github.com/wendy-ha18/2026-milestones-tracking/issues/4) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+1. 🗣 Commented on [#7](https://github.com/wendy-ha18/2026-milestones-tracking/issues/7#issuecomment-3804014429) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+2. ❗ Opened issue [#7](https://github.com/wendy-ha18/2026-milestones-tracking/issues/7) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+3. 🗣 Commented on [#6097](https://github.com/kubernetes/org/issues/6097#issuecomment-3798721135) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 🗣 Commented on [#5753](https://github.com/kubernetes/enhancements/pull/5753#issuecomment-3798271024) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. ❗ Opened issue [#6](https://github.com/wendy-ha18/2026-milestones-tracking/issues/6) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
 <!--END_SECTION:activity-->
