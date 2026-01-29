@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/wendy-ha18/2026-milestones-tracking/issues/7#issuecomment-3804014429) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
-2. ❗ Opened issue [#7](https://github.com/wendy-ha18/2026-milestones-tracking/issues/7) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
-3. 🗣 Commented on [#6097](https://github.com/kubernetes/org/issues/6097#issuecomment-3798721135) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#5753](https://github.com/kubernetes/enhancements/pull/5753#issuecomment-3798271024) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. ❗ Opened issue [#6](https://github.com/wendy-ha18/2026-milestones-tracking/issues/6) in [wendy-ha18/2026-milestones-tracking](https://github.com/wendy-ha18/2026-milestones-tracking)
+1. 🗣 Commented on [#1111](https://github.com/etcd-io/website/pull/1111#issuecomment-3814330415) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#6097](https://github.com/kubernetes/org/issues/6097#issuecomment-3798721135) in [kubernetes/org](https://github.com/kubernetes/org)
+3. 🗣 Commented on [#5753](https://github.com/kubernetes/enhancements/pull/5753#issuecomment-3798271024) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#1063](https://github.com/etcd-io/website/issues/1063#issuecomment-3787548541) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#1063](https://github.com/etcd-io/website/issues/1063#issuecomment-3787548327) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
