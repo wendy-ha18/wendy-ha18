@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5018](https://github.com/kubernetes/enhancements/issues/5018#issuecomment-3883564465) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-2. 🗣 Commented on [#4205](https://github.com/kubernetes/enhancements/issues/4205#issuecomment-3883559765) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-3. 🗣 Commented on [#5694](https://github.com/kubernetes/enhancements/pull/5694#issuecomment-3877777232) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 🗣 Commented on [#5851](https://github.com/kubernetes/enhancements/pull/5851#issuecomment-3856901883) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-5. 🗣 Commented on [#4138](https://github.com/kubernetes/enhancements/issues/4138#issuecomment-3856777151) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#1112](https://github.com/etcd-io/website/pull/1112#issuecomment-3901730489) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1112](https://github.com/etcd-io/website/pull/1112#issuecomment-3901727943) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#5018](https://github.com/kubernetes/enhancements/issues/5018#issuecomment-3883564465) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🗣 Commented on [#4205](https://github.com/kubernetes/enhancements/issues/4205#issuecomment-3883559765) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+5. 🗣 Commented on [#5694](https://github.com/kubernetes/enhancements/pull/5694#issuecomment-3877777232) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
