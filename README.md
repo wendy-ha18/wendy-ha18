@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1128](https://github.com/etcd-io/website/pull/1128#issuecomment-3994285032) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#1118](https://github.com/etcd-io/website/pull/1118#issuecomment-3965549172) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#1121](https://github.com/etcd-io/website/pull/1121#issuecomment-3940839873) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 🗣 Commented on [#1124](https://github.com/etcd-io/website/pull/1124#issuecomment-3912410007) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🗣 Commented on [#1112](https://github.com/etcd-io/website/pull/1112#issuecomment-3901730489) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 💪 Opened PR [#5888](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5888) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❗ Opened issue [#5887](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5887) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#1128](https://github.com/etcd-io/website/pull/1128#issuecomment-3994285032) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#1118](https://github.com/etcd-io/website/pull/1118#issuecomment-3965549172) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#1121](https://github.com/etcd-io/website/pull/1121#issuecomment-3940839873) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
