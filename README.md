@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1140](https://github.com/etcd-io/website/issues/1140#issuecomment-4158847255) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#137357](https://github.com/kubernetes/kubernetes/pull/137357#issuecomment-4100683250) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. 🗣 Commented on [#4815](https://github.com/kubernetes/enhancements/issues/4815#issuecomment-4100649887) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
-4. 💪 Opened PR [#5905](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5905) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5887](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5887#issuecomment-4014102802) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185321800) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185252664) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185250701) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185202381) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#1140](https://github.com/etcd-io/website/issues/1140#issuecomment-4158847255) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
