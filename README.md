@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185321800) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185252664) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185250701) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185202381) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🗣 Commented on [#1140](https://github.com/etcd-io/website/issues/1140#issuecomment-4158847255) in [etcd-io/website](https://github.com/etcd-io/website)
+1. ℹ️ Assigned PR [#1146](https://github.com/etcd-io/website/pull/1146) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1146](https://github.com/etcd-io/website/pull/1146#issuecomment-4248277104) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185321800) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185252664) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185250701) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
