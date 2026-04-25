@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#1146](https://github.com/etcd-io/website/pull/1146) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#1146](https://github.com/etcd-io/website/pull/1146#issuecomment-4248277104) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185321800) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185252664) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185250701) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 💪 Opened PR [#1](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/1) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+2. ❌ Closed PR [#5905](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5905) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ℹ️ Assigned PR [#1146](https://github.com/etcd-io/website/pull/1146) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#1146](https://github.com/etcd-io/website/pull/1146#issuecomment-4248277104) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#1141](https://github.com/etcd-io/website/pull/1141#issuecomment-4185321800) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
