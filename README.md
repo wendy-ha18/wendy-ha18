@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/12) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-2. ❌ Closed PR [#11](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/11) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-3. ❌ Closed PR [#9](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/9) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-4. 💪 Opened PR [#9](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/9) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-5. ❌ Closed PR [#8](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/8) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+1. 🎉 Merged PR [#13](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/13) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+2. 💪 Opened PR [#13](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/13) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+3. ❌ Closed PR [#12](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/12) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+4. 💪 Opened PR [#12](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/12) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+5. ❌ Closed PR [#11](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/11) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
 <!--END_SECTION:activity-->
