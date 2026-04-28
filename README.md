@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/13) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-2. 💪 Opened PR [#13](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/13) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-3. ❌ Closed PR [#12](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/12) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-4. 💪 Opened PR [#12](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/12) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-5. ❌ Closed PR [#11](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/11) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+1. ❌ Closed PR [#16](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/16) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+2. 💪 Opened PR [#5990](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5990) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❌ Closed PR [#14](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/14) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+4. 💪 Opened PR [#15](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/15) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+5. 🎉 Merged PR [#13](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/13) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
 <!--END_SECTION:activity-->
