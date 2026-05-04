@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1152](https://github.com/etcd-io/website/pull/1152#issuecomment-4363400324) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 💪 Opened PR [#1152](https://github.com/etcd-io/website/pull/1152) in [etcd-io/website](https://github.com/etcd-io/website)
-3. ℹ️ Unassigned PR [#1146](https://github.com/etcd-io/website/pull/1146) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 💪 Opened PR [#5990](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5990) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ❌ Closed PR [#5905](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5905) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5990](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5990#issuecomment-4366387806) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#26](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/26) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+3. ❌ Closed PR [#23](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/23) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+4. ℹ️ Reopened PR [#23](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/23) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+5. 🗣 Commented on [#1152](https://github.com/etcd-io/website/pull/1152#issuecomment-4363400324) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
