@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/32) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-2. 🎉 Merged PR [#31](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/31) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-3. 💪 Opened PR [#31](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/31) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-4. 🎉 Merged PR [#29](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/29) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-5. 💪 Opened PR [#29](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/29) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+1. 🗣 Commented on [#5990](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5990#issuecomment-4413044154) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5990](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5990#issuecomment-4413037684) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#32](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/32) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+4. 🎉 Merged PR [#31](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/31) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+5. 💪 Opened PR [#31](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/31) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
 <!--END_SECTION:activity-->
