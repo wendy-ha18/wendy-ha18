@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/52) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-2. ❌ Closed PR [#49](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/49) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-3. ❌ Closed PR [#50](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/50) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-4. 🎉 Merged PR [#5990](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5990) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🎉 Merged PR [#48](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/48) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+1. 🗣 Commented on [#6009](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6009#issuecomment-4537302398) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#6020](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6020#issuecomment-4536874713) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#52](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/52) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+4. ❌ Closed PR [#49](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/49) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+5. ❌ Closed PR [#50](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/50) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
 <!--END_SECTION:activity-->
