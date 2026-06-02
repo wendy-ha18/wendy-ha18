@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/59) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-2. 💪 Opened PR [#59](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/59) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-3. ❌ Closed PR [#57](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/57) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-4. 🎉 Merged PR [#58](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/58) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
-5. 💪 Opened PR [#58](https://github.com/wendy-ha18/test-cluster-api-provider-aws/pull/58) in [wendy-ha18/test-cluster-api-provider-aws](https://github.com/wendy-ha18/test-cluster-api-provider-aws)
+1. ℹ️ Unassigned PR [#1163](https://github.com/etcd-io/website/pull/1163) in [etcd-io/website](https://github.com/etcd-io/website)
+2. ℹ️ Unassigned PR [#1164](https://github.com/etcd-io/website/pull/1164) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#1163](https://github.com/etcd-io/website/pull/1163#issuecomment-4596445213) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#1164](https://github.com/etcd-io/website/pull/1164#issuecomment-4596434200) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🎉 Merged PR [#6009](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6009) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
