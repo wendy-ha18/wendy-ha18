@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned PR [#1163](https://github.com/etcd-io/website/pull/1163) in [etcd-io/website](https://github.com/etcd-io/website)
-2. ℹ️ Unassigned PR [#1164](https://github.com/etcd-io/website/pull/1164) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 🗣 Commented on [#1163](https://github.com/etcd-io/website/pull/1163#issuecomment-4596445213) in [etcd-io/website](https://github.com/etcd-io/website)
-4. 🗣 Commented on [#1164](https://github.com/etcd-io/website/pull/1164#issuecomment-4596434200) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🎉 Merged PR [#6009](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6009) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#1183](https://github.com/etcd-io/website/pull/1183#issuecomment-4826215490) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1183](https://github.com/etcd-io/website/pull/1183#issuecomment-4826160210) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 💪 Opened PR [#1183](https://github.com/etcd-io/website/pull/1183) in [etcd-io/website](https://github.com/etcd-io/website)
+4. ℹ️ Unassigned PR [#1163](https://github.com/etcd-io/website/pull/1163) in [etcd-io/website](https://github.com/etcd-io/website)
+5. ℹ️ Unassigned PR [#1164](https://github.com/etcd-io/website/pull/1164) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
