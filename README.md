@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1183](https://github.com/etcd-io/website/pull/1183#issuecomment-4826215490) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🗣 Commented on [#1183](https://github.com/etcd-io/website/pull/1183#issuecomment-4826160210) in [etcd-io/website](https://github.com/etcd-io/website)
-3. 💪 Opened PR [#1183](https://github.com/etcd-io/website/pull/1183) in [etcd-io/website](https://github.com/etcd-io/website)
-4. ℹ️ Unassigned PR [#1163](https://github.com/etcd-io/website/pull/1163) in [etcd-io/website](https://github.com/etcd-io/website)
-5. ℹ️ Unassigned PR [#1164](https://github.com/etcd-io/website/pull/1164) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 🎉 Merged PR [#1183](https://github.com/etcd-io/website/pull/1183) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1183](https://github.com/etcd-io/website/pull/1183#issuecomment-4826215490) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#1183](https://github.com/etcd-io/website/pull/1183#issuecomment-4826160210) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 💪 Opened PR [#1183](https://github.com/etcd-io/website/pull/1183) in [etcd-io/website](https://github.com/etcd-io/website)
+5. ℹ️ Unassigned PR [#1163](https://github.com/etcd-io/website/pull/1163) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
