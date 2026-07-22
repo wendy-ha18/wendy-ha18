@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9071](https://github.com/kubernetes/community/issues/9071#issuecomment-4954440738) in [kubernetes/community](https://github.com/kubernetes/community)
-2. 🗣 Commented on [#9071](https://github.com/kubernetes/community/issues/9071#issuecomment-4954434708) in [kubernetes/community](https://github.com/kubernetes/community)
-3. ❗ Opened issue [#9071](https://github.com/kubernetes/community/issues/9071) in [kubernetes/community](https://github.com/kubernetes/community)
-4. 🎉 Merged PR [#1188](https://github.com/etcd-io/website/pull/1188) in [etcd-io/website](https://github.com/etcd-io/website)
-5. 🗣 Commented on [#1184](https://github.com/etcd-io/website/pull/1184#issuecomment-4910165850) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 🗣 Commented on [#1191](https://github.com/etcd-io/website/pull/1191#issuecomment-5040596242) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1190](https://github.com/etcd-io/website/pull/1190#issuecomment-5030346088) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 🗣 Commented on [#1192](https://github.com/etcd-io/website/pull/1192#issuecomment-5030259934) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🗣 Commented on [#9071](https://github.com/kubernetes/community/issues/9071#issuecomment-4954440738) in [kubernetes/community](https://github.com/kubernetes/community)
+5. 🗣 Commented on [#9071](https://github.com/kubernetes/community/issues/9071#issuecomment-4954434708) in [kubernetes/community](https://github.com/kubernetes/community)
 <!--END_SECTION:activity-->
