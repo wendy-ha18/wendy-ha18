@@ -17,7 +17,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1202](https://github.com/etcd-io/website/pull/1202) in [etcd-io/website](https://github.com/etcd-io/website)
+1. 💪 Opened PR [#1224](https://github.com/etcd-io/website/pull/1224) in [etcd-io/website](https://github.com/etcd-io/website)
 2. 🗣 Commented on [#9092](https://github.com/kubernetes/community/issues/9092#issuecomment-5128997686) in [kubernetes/community](https://github.com/kubernetes/community)
 3. 🗣 Commented on [#9090](https://github.com/kubernetes/community/issues/9090#issuecomment-5126400039) in [kubernetes/community](https://github.com/kubernetes/community)
 4. 💪 Opened PR [#1202](https://github.com/etcd-io/website/pull/1202) in [etcd-io/website](https://github.com/etcd-io/website)
