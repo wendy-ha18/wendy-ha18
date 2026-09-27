@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1224](https://github.com/etcd-io/website/pull/1224) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🎉 Merged PR [#5](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/5) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-3. 💪 Opened PR [#5](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/5) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-4. 🎉 Merged PR [#4](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/4) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-5. 💪 Opened PR [#4](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/4) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
+1. 🎉 Merged PR [#9](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/9) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
+2. 💪 Opened PR [#9](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/9) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
+3. 🎉 Merged PR [#8](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/8) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
+4. 💪 Opened PR [#8](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/8) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
+5. 🗣 Commented on [#6386](https://github.com/kubernetes/enhancements/issues/6386#issuecomment-5847233179) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
 <!--END_SECTION:activity-->
