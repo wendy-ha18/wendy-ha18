@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/9) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-2. 💪 Opened PR [#9](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/9) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-3. 🎉 Merged PR [#8](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/8) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-4. 💪 Opened PR [#8](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/8) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-5. 🗣 Commented on [#6386](https://github.com/kubernetes/enhancements/issues/6386#issuecomment-5847233179) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🗣 Commented on [#3541](https://github.com/kubernetes/enhancements/issues/3541#issuecomment-5898580460) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+2. 🗣 Commented on [#4958](https://github.com/kubernetes/enhancements/issues/4958#issuecomment-5898528234) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+3. 🗣 Commented on [#5999](https://github.com/kubernetes/enhancements/issues/5999#issuecomment-5898461530) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+4. 🎉 Merged PR [#10](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/10) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
+5. 💪 Opened PR [#10](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/10) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
 <!--END_SECTION:activity-->
