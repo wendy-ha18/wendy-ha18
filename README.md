@@ -17,9 +17,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1253](https://github.com/etcd-io/website/pull/1253#issuecomment-6997663020) in [etcd-io/website](https://github.com/etcd-io/website)
-2. 🎉 Merged PR [#12](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/12) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-3. 💪 Opened PR [#12](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/12) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-4. 🎉 Merged PR [#11](https://github.com/wendy-ha18/k8s-release-enhancement-skills/pull/11) in [wendy-ha18/k8s-release-enhancement-skills](https://github.com/wendy-ha18/k8s-release-enhancement-skills)
-5. 🗣 Commented on [#6386](https://github.com/kubernetes/enhancements/issues/6386#issuecomment-6947971410) in [kubernetes/enhancements](https://github.com/kubernetes/enhancements)
+1. 🎉 Merged PR [#1254](https://github.com/etcd-io/website/pull/1254) in [etcd-io/website](https://github.com/etcd-io/website)
+2. 🗣 Commented on [#1254](https://github.com/etcd-io/website/pull/1254#issuecomment-7002829202) in [etcd-io/website](https://github.com/etcd-io/website)
+3. 💪 Opened PR [#1254](https://github.com/etcd-io/website/pull/1254) in [etcd-io/website](https://github.com/etcd-io/website)
+4. 🎉 Merged PR [#1253](https://github.com/etcd-io/website/pull/1253) in [etcd-io/website](https://github.com/etcd-io/website)
+5. 🗣 Commented on [#1253](https://github.com/etcd-io/website/pull/1253#issuecomment-6997663020) in [etcd-io/website](https://github.com/etcd-io/website)
 <!--END_SECTION:activity-->
